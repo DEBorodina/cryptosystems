@@ -1,0 +1,19 @@
+{
+  "name": "cryptosystems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mathjs": "^11.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
